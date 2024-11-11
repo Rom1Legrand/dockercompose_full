@@ -17,8 +17,8 @@ default_args = {
 
 def test_jenkins_connection():
     jenkins_url = "http://jenkins:8080"
-    jenkins_user = "admin"  # Remplacez par votre utilisateur Jenkins
-    jenkins_password = "admin"  # Remplacez par votre mot de passe Jenkins
+    jenkins_user = "xxxx"  # Remplacez par votre utilisateur Jenkins
+    jenkins_password = "xxxx"  # Remplacez par votre mot de passe Jenkins
     
     try:
         # Test basique de connexion
